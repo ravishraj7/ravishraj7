@@ -1,134 +1,113 @@
 <h1 align="center">Hi 👋, I'm Ravish Raj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;GATE+DA+2027+Aspirant;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Open+Source+Learner;GATE+DA+2027+Aspirant" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ravishraj7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750722-f7e9d9d4-6d77-4d47-a62c-0e7d2f4d8f5b.gif" width="700"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/ravishraj7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/ravishraj7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:ravishraj813213@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech in Data Science
+```yaml
+Name: Ravish Raj
+Education: B.Tech in Data Science
+Role: Aspiring Data Analyst
+Focus: Machine Learning | AI | Data Analytics
+Goal: Crack GATE DA 2027
+```
 
-📊 Passionate about Data Analytics, Machine Learning and AI.
-
-🌱 Currently learning Python, SQL, Power BI, Tableau, Deep Learning and Open Source.
-
-🎯 Goal:
-- Crack GATE DA 2027
-- Become a Data Analyst
-- Contribute to Open Source
-
----
+- 🌱 Learning Python, SQL, Power BI, Tableau, Deep Learning
+- 🚀 Building real-world Data Science projects
+- 🤝 Looking to contribute to Open Source
 
 # 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,java,c,html,css,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,vscode,mysql"/>
 </p>
 
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,powerbi"/>
-
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
----
+# 🚀 Featured Projects
 
-# 📌 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🚗 EV Charge & Range Analysis | Interactive Tableau dashboard |
+| 🛍 Diwali Sales Analysis | Python EDA project |
+| 🤖 EduGenie Learning Assistant | AI learning assistant |
 
-🚗 EV Charge & Range Analysis Dashboard
+# 🏆 Certifications
 
-🛍 Diwali Sales Analysis
+- Google Advanced Data Analytics
+- IBM Data Science
+- Tata GenAI Powered Data Analytics
+- Cisco Networking Academy
+- HTML & CSS
 
-🤖 EduGenie Learning Assistant
-
----
-
-# 📜 Certifications
-
-🏆 Google Advanced Data Analytics
-
-🏆 IBM Data Science
-
-🏆 Tata GenAI Powered Data Analytics
-
-🏆 Cisco Networking Academy
-
-🏆 HTML & CSS
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravishraj7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishraj7&layout=compact&theme=tokyonight"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ravishraj7&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishraj7&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravishraj7&theme=tokyonight"/>
-
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ravishraj7&theme=algolia&no-frame=true&row=2&column=4"/>
-
 </p>
 
----
-
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravishraj7&theme=tokyo-night"/>
-
 </p>
 
----
+# 🐍 Snake Animation
 
-# 🌐 Connect With Me
+> After creating your profile repository, create `.github/workflows/snake.yml` and follow:
+> https://github.com/Platane/snk
 
+Then display it with:
+
+```md
 <p align="center">
-
-<a href="https://linkedin.com/in/ravishraj7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ravishraj813213@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ravishraj7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/ravishraj7/ravishraj7/output/github-contribution-grid-snake.svg"/>
 </p>
+```
+
+# 🎯 2027 Goals
+
+- ✅ Master Data Structures
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Crack GATE DA 2027
+- ✅ Land a Data Analyst role
+
+# 📫 Connect
+
+- 📧 ravishraj813213@gmail.com
+- 💼 https://linkedin.com/in/ravishraj7
+- 💻 https://github.com/ravishraj7
 
 ---
 
-# 💡 Quote
-
-> **"Turning data into meaningful insights through analytics and AI."**
-
-⭐ If you like my work, consider following my GitHub profile!
+<p align="center"><b>"Turning Data into Meaningful Insights with Analytics & AI."</b></p>
