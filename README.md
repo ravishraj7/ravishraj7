@@ -8,11 +8,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750722-f7e9d9d4-6d77-4d47-a62c-0e7d2f4d8f5b.gif" width="700"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/ravishraj7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/ravishraj7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:ravishraj813213@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-</p>
 
 ---
 
@@ -23,7 +18,6 @@ Name: Ravish Raj
 Education: B.Tech in Data Science
 Role: Aspiring Data Analyst
 Focus: Machine Learning | AI | Data Analytics
-Goal: Crack GATE DA 2027
 ```
 
 - 🌱 Learning Python, SQL, Power BI, Tableau, Deep Learning
@@ -58,30 +52,12 @@ Goal: Crack GATE DA 2027
 - Cisco Networking Academy
 - HTML & CSS
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ravishraj7&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishraj7&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravishraj7&theme=tokyonight"/>
-</p>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravishraj7&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
 
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravishraj7&theme=tokyo-night"/>
 </p>
-
-
 
 
 # 💻 Tech Stack:
@@ -93,6 +69,15 @@ Goal: Crack GATE DA 2027
 ![](https://github-readme-stats.shion.dev/api?username=ravishraj7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ravishraj7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravishraj7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+<p align="center">
+<a href="https://github.com/ravishraj7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/ravishraj7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:ravishraj813213@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
+
 
 
 ---
