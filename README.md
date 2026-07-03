@@ -1,8 +1,9 @@
-💫 About Me:
+👨‍💻 About Me:
+<br><br>🔭 B.Tech Data Science student passionate about Data Analytics and Business Intelligence.  <br>🌱 Learning Python, SQL, Power BI, Tableau, Machine Learning, and Snowflake.  <br>💬 Ask me about Data Analysis, Data Visualization, Dashboard Development, and EDA.  <br>🤝 Open to collaborating on Data Analytics and AI projects.  <br>🎯 Aspiring Data Analyst focused on solving real-world problems with data.
 
-[04-07-2026 12:36 AM] Ravish Raj: # 💫 About Me:
-👨‍💻 About Me:<br><br>🔭 B.Tech Data Science student passionate about Data Analytics and Business Intelligence.  <br>🌱 Learning Python, SQL, Power BI, Tableau, Machine Learning, and Snowflake.  <br>💬 Ask me about Data Analysis, Data Visualization, Dashboard Development, and EDA.  <br>🤝 Open to collaborating on Data Analytics and AI projects.  <br>🎯 Aspiring Data Analyst focused on solving real-world problems with data.
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Open+Source+Learner" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ravishraj7)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RavishR09354808)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravishraj813213@gmail.com) 
@@ -17,13 +18,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=ravishraj7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[04-07-2026 12:54 AM] Ravish Raj: <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Open+Source+Learner" />
-</p>
-👨‍💻 About Me:<br><br>🔭 B.Tech Data Science student passionate about Data Analytics and Business Intelligence.  <br>🌱 Learning Python, SQL, Power BI, Tableau, Machine Learning, and Snowflake.  <br>💬 Ask me about Data Analysis, Data Visualization, Dashboard Development, and EDA.  <br>🤝 Open to collaborating on Data Analytics and AI projects.  <br>🎯 Aspiring Data Analyst focused on solving real-world problems with data.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ravishraj7)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RavishR09354808)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravishraj813213@gmail.com) 
