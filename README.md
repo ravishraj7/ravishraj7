@@ -72,10 +72,19 @@ Focus: Machine Learning | AI | Data Analytics
 <a href="mailto:ravishraj813213@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
+# 📫 Connect
+
+- 📧 ravishraj813213@gmail.com
+- 💼 https://linkedin.com/in/ravishraj7
+- 💻 https://github.com/ravishraj7
+
+---
+
+<p align="center"><b>"Turning Data into Meaningful Insights with Analytics & AI."</b></p>
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=ravishraj7&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
