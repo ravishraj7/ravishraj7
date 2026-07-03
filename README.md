@@ -20,9 +20,6 @@ Role: Aspiring Data Analyst
 Focus: Machine Learning | AI | Data Analytics
 ```
 
-- 🌱 Learning Python, SQL, Power BI, Tableau, Deep Learning
-- 🚀 Building real-world Data Science projects
-- 🤝 Looking to contribute to Open Source
 
 # 🛠 Tech Stack
 
