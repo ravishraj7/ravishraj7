@@ -64,7 +64,7 @@ Focus: Machine Learning | AI | Data Analytics
 ![](https://streak-stats.demolab.com/?user=ravishraj7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravishraj7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+# 📫 Connect
 
 <p align="center">
 <a href="https://github.com/ravishraj7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
@@ -72,11 +72,9 @@ Focus: Machine Learning | AI | Data Analytics
 <a href="mailto:ravishraj813213@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-# 📫 Connect
 
-- 📧 ravishraj813213@gmail.com
-- 💼 https://linkedin.com/in/ravishraj7
-- 💻 https://github.com/ravishraj7
+
+
 
 ---
 
