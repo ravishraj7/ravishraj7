@@ -65,7 +65,9 @@ Focus: Machine Learning | AI | Data Analytics
 ![](https://github-readme-stats.shion.dev/api?username=ravishraj7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ravishraj7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravishraj7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+  </p>
 # 📫 Connect
 
 <p align="center">
