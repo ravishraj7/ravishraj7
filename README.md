@@ -44,7 +44,7 @@ Focus: Machine Learning | AI | Data Analytics
 | 🤖 EduGenie Learning Assistant | AI learning assistant |
 
 
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/7f620d0b-b598-4709-aaf1-b1d3d44911dd" />
+
 
 
 # 🏆 Certifications
@@ -87,7 +87,7 @@ Focus: Machine Learning | AI | Data Analytics
 ---
 
 <p align="center"><b>"Turning Data into Meaningful Insights with Analytics & AI."</b></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
