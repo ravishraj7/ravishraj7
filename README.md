@@ -43,6 +43,10 @@ Focus: Machine Learning | AI | Data Analytics
 | 🛍 Diwali Sales Analysis | Python EDA project |
 | 🤖 EduGenie Learning Assistant | AI learning assistant |
 
+
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/7f620d0b-b598-4709-aaf1-b1d3d44911dd" />
+
+
 # 🏆 Certifications
 
 - Google Advanced Data Analytics
