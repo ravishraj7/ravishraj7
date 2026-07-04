@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravish Raj</h1>
-<div align="center">
-
-<img src="assets/spiderman.gif" width="350" alt="Spider-Man Animation">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravishraj7/ravishraj7/main/assets/spiderman.gif" width="400" alt="Spider-Man">
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Open+Source+Learner" />
 </p>
